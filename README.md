@@ -18,10 +18,12 @@ News Connect is an innovative news scraping and content creation application tha
 
 To install and run News Connect, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/news-connect/news-connect.git`
-2. Install the required dependencies: `npm install`
-3. Start the application: `npm start`
-4. Access News Connect in your web browser at `http://localhost:3000`
+1. Clone the repository: `git clone https://github.com/punith-kumar-pr/news-connect.git`
+2. Go to specific directory `cd backend` and the `cd frontend`
+3. Install the required dependencies: `yarn install`
+4. Start the application: `yarn start`
+5. Access News Connect in your web browser at `http://localhost:3000`
+6. Also run the backend server: `nodemon`
 
 ## Usage
 
@@ -31,9 +33,7 @@ To install and run News Connect, follow these steps:
 
 3. **Customization**: Customize your news feed by selecting preferred topics, authors, or categories to receive personalized article recommendations.
 
-4. **Social Interaction**: Engage with the News Connect community by liking, commenting, and sharing articles. Participate in discussions, exchange ideas, and learn from fellow users.
-
-5. **Bookmarking**: Save articles of interest to your personal library for easy access and future reference.
+4. **Bookmarking**: Save articles of interest to your personal library for easy access and future reference.
 
 ## Future Enhancements
 
@@ -45,19 +45,13 @@ The News Connect team is committed to continuously improving the application and
 
 - **Advanced Analytics**: Provide users with insightful analytics on article engagement, user interactions, and personalized recommendations.
 
-## Contributing
-
-We welcome contributions from the open-source community to make News Connect even better. To contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 News Connect is released under the [MIT License](LICENSE.md).
 
 ## Contact
 
-For any questions, suggestions, or support, please reach out to our team at info@newsconnect.com.
-
-Visit our website at [www.newsconnect.com](https://www.newsconnect.com) for more information about News Connect.
+For any questions, suggestions, or support, please reach out to our team at punikumar2002@gmail.com.
 
 ---
 
